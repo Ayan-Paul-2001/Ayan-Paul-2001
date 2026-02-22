@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Computer+Science+Student+%F0%9F%8E%93;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Linux+Lover+%F0%9F%90%A7;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=60&lines=Computer+Science+Student+🎓;AI+%26+Deep+Learning+Enthusiast+🤖;Python+Developer+🐍;Linux+Lover+🐧;Problem+Solver+💡" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,32 +16,37 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>👋 Welcome to my world!</h3>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&pause=1000&color=36BCF7FF&width=450&lines=I'm+Ayan+Paul%2C+a+CS+Student+%26+AI+Researcher.;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;Passionate+about+AI+and+Modern+Web+Tech." alt="Typing SVG" />
+      </p>
+      <p>
+        I'm a final-year Computer Science & Engineering student at <b>American International University-Bangladesh (AIUB)</b>. While my research is driven by a deep fascination with <b>AI & Deep Learning</b>, I also thrive as a <b>Full Stack Developer</b>. I enjoy bridging the gap between intelligent backend systems and seamless frontend experiences using <b>Node.js</b>, <b>React</b>, and <b>PostgreSQL</b>.
+      </p>
+      <ul>
+        <li>🔬 <b>Research Focus</b>: Enhancing Facial Emotion Recognition using Darknet-53 & XAI.</li>
+        <li>💻 <b>Full Stack</b>: Building scalable web applications with modern tech stacks.</li>
+        <li>🌱 <b>Learning Path</b>: Deepening my expertise in TensorFlow and Advanced Web Architectures.</li>
+      </ul>
+      <p>
+        📫 <b>Contact</b>: <a href="mailto:ayancse2001@gmail.com">ayancse2001@gmail.com</a>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
-```python
-class AyanPaul:
-    def __init__(self):
-        self.name = "Ayan Paul"
-        self.role = "CS Student & AI Researcher"
-        self.university = "AIUB, Bangladesh"
-        self.languages = ["Python", "C", "C++", "C#", "Java"]
-        self.interests = ["Deep Learning", "Computer Vision", 
-                         "Shell Scripting", "Linux"]
-        self.current_focus = "Facial Emotion Recognition"
-        
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing!")
+<br/>
 
-me = AyanPaul()
-me.say_hi()
-```
-
-- 🎓 **Education**: Computer Science & Engineering at **American International University-Bangladesh (AIUB)**
-- 🔬 **Research**: Working on Facial Emotion Recognition using Darknet-53 & XAI
-- 🌱 **Currently Learning**: Advanced Deep Learning, TensorFlow, Shell Scripting
-- 💬 **Ask me about**: C, C++, C#, Python, Machine Learning
-- 📫 **Reach me**: ayancse2001@gmail.com
-- ⚡ **Fun fact**: You might find me moody, but I'm actually very friendly and funny! 😊
+- 🎓 **Education**: Computer Science & Engineering at **AIUB**
+- 💬 **Ask me about**: C/C++, C#, Python, Node.js, and AI Algorithms
+- 🏛️ **University**: AIUB, Bangladesh
+- 🎯 **Current Focus**: Facial Emotion Recognition & XAI
 
 ---
 
@@ -83,6 +88,8 @@ me.say_hi()
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
@@ -97,6 +104,7 @@ me.say_hi()
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -104,6 +112,7 @@ me.say_hi()
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -112,48 +121,13 @@ me.say_hi()
 ## 📈 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayan-paul-2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ayan-paul-2001&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayan-paul-2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ayan's GitHub Stats" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayan-paul-2001&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayan-paul-2001&theme=default&hide_border=true">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-paul-2001&theme=tokyonight&hide_border=true" alt="Ayan's Streak Stats" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayan-paul-2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ayan's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-paul-2001&theme=tokyonight&hide_border=true" alt="Ayan's Streak Stats" height="180px" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-paul-2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-paul-2001&layout=compact&theme=default&hide_border=true&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-paul-2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-paul-2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayan-paul-2001&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/ayan-paul-2001">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayan-paul-2001&repo=ayan-paul-2001&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<p align="center">
-  <i>⭐ Check out my repositories below for more projects!</i>
-</p>
 
 ---
 
@@ -162,8 +136,8 @@ me.say_hi()
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-paul-b31b45264/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ayan.paul.21112001)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam_ayanpaul)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ayanpaul.cyber)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayan_paul21/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayancse2001@gmail.com)
 
 </div>
@@ -176,8 +150,4 @@ me.say_hi()
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ayan-paul-2001&icon=5&color=6" alt="Visit Count" />
 </div>
