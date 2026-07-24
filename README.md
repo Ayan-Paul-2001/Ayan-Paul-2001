@@ -14,21 +14,21 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <table border="0">
   <tr>
     <td width="60%">
-      <h3>👋 Welcome to my world!</h3>
+      <h3>Welcome to my world!</h3>
       <p>
         I am a passionate Software Engineer dedicated to building reliable, scalable, and user-focused software solutions. I enjoy solving complex problems, learning new technologies, and continuously improving my skills. I believe in writing clean, maintainable code and collaborating with others to create products that make a meaningful impact. I'm always eager to take on new challenges and grow both personally and professionally.
       </p>
       <ul>
-        <li>🔬 <b>Research Focus</b>: Artificial Intelligence</li>
-        <li>💻 <b>Work Preference</b>: Full Stack Web Developer</li>
+        <li><b>Research Focus</b>: Artificial Intelligence</li>
+        <li><b>Work Preference</b>: Full Stack Web Developer</li>
       </ul>
       <p>
-        📫 <b>Contact</b>: <a href="mailto:ayancse2001@gmail.com">ayancse2001@gmail.com</a>
+        <b>Contact</b>: <a href="mailto:ayancse2001@gmail.com">ayancse2001@gmail.com</a>
       </p>
     </td>
     <td width="40%" align="center">
@@ -39,13 +39,13 @@
 
 <br/>
 
-- 🎓 **Education**: Bsc in Computer Science & Engineering
-- 🎯 **Major**: Software Engineering
-- 🏛️ **University**: American International University-Bangladesh (AIUB)
+- **Education**: Bsc in Computer Science & Engineering
+- **Major**: Software Engineering
+- **University**: American International University-Bangladesh (AIUB)
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayan-paul-2001/ayan-paul-2001/output/github-contribution-grid-snake-dark.svg">
@@ -55,11 +55,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -69,7 +69,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🤖 AI/ML & Data Science
+### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -77,13 +77,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -95,7 +95,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180" src="https://raw.githubusercontent.com/ayan-paul-2001/ayan-paul-2001/main/profile/stats.svg" alt="GitHub Stats" />
@@ -108,7 +108,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
   
