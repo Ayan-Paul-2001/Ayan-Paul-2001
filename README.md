@@ -98,8 +98,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayan-paul-2001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-paul-2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://raw.githubusercontent.com/ayan-paul-2001/ayan-paul-2001/main/profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="https://raw.githubusercontent.com/ayan-paul-2001/ayan-paul-2001/main/profile/top-langs.svg" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
