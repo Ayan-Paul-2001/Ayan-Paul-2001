@@ -103,7 +103,7 @@
 </div>
 <br/>
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=ayan-paul-2001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="180" src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -112,7 +112,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-0076B6?style=for-the-badge&logo=react&logoColor=white)](https://ayan-portfolio-dev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0076B6?style=for-the-badge&logo=react&logoColor=white)](https://www.ayanpaul.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-paul-b31b45264/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayancse2001@gmail.com)
 
