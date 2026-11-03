@@ -98,12 +98,12 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/ayan-paul-2001/ayan-paul-2001/main/profile/stats.svg" alt="GitHub Stats" />
-  <img height="180" src="https://raw.githubusercontent.com/ayan-paul-2001/ayan-paul-2001/main/profile/top-langs.svg" alt="Top Languages" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-paul-2001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=ayan-paul-2001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
